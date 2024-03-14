@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PORTFOLIO**
 
-- 🌱 I’m currently learning **LEARNING**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 📫 How to reach me **JITHK03@GMAIL.COM**
 
